@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOAJvteK1wWPHFYbX5kCf8q2MvuigGLV+9I09w+jl6HK0JKywxzr4k/2i5RNEzYanw/d1meWfRjIUoz3gNdDGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrian\\source\\repos\\CSharpCourse-07-01-linq\\FirstProject\\FirstProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\csvhelper\\26.0.1\\csvhelper.26.0.1.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

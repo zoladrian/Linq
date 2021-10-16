@@ -1,0 +1,16 @@
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Adrian\source\repos\CSharpCourse-07-01-linq\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache
